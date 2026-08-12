@@ -1,5 +1,5 @@
 import java.util.*;
-class Solutions {
+class Solutionss {
     int[][] dp;
     public int longestPalindromeSubseq(String s) {
         String s1 = new StringBuilder(s).reverse().toString();
